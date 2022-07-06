@@ -152,9 +152,9 @@ section.character .character_cont .cont02 .character_cont_img{max-width: 500px; 
 section.character .character_cont .cont03 .character_cont_img{max-width: 500px; width: 50%; box-sizing: border-box; margin-left: 150px;}
 section.character .character_cont .cont04 .character_cont_img{max-width: 500px; width: 50%; box-sizing: border-box; margin-right: 60px;}
 
-section.character .character_cont .cont01 .character_arrow{position: absolute; top: 35%; left: 45%; transform: translate(0, -45%);}
+section.character .character_cont .cont01 .character_arrow{position: absolute; top: 35%; left: 45%; transform: translate(0, -45%) rotate(180deg);}
 section.character .character_cont .cont02 .character_arrow{position: absolute; top: 34%; left: 38%; transform: translate(0, -38%);}
-section.character .character_cont .cont03 .character_arrow{position: absolute; top: 40%; left: 45%; transform: translate(0, -45%);}
+section.character .character_cont .cont03 .character_arrow{position: absolute; top: 40%; left: 45%; transform: translate(0, -45%) rotate(180deg);}
 section.character .character_cont .cont04 .character_arrow{position: absolute; top: 35%; left: 37%; transform: translate(0, -37%);}
 
 section.character .character_cont .cont .character_txt_txt{margin-top: 44px; margin-left: 30px;}
